@@ -54,6 +54,26 @@ html {
 }
 
 
+.storyboardkeaapp {
+    width: 850px;
+    height: 550px;
+}
+
+.brugafapp {
+    width: 850px;
+    height: 550px;
+}
+
+.papirtypekeaapp {
+    width: 850px;
+    height: 550px;
+}
+
+.billede1 {
+    width: 850px;
+    height: 550px;
+}
+
 body {
     max-width: 1200px;
     margin: 0 auto;
